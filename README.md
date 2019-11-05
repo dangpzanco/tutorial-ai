@@ -29,9 +29,11 @@ Versão do Python: 3.7
 
 ## Instalação (Windows)
 
-Instalar o [Miniconda3](https://docs.conda.io/en/latest/miniconda.html), versão Python 3.7.
+Instalar o [Miniconda3](https://docs.conda.io/en/latest/miniconda.html), versão Python 3.7:
 
-Durante a instalação marcar a opção:
+![miniconda3-install0](miniconda3-install0.png)
+
+Durante a instalação, marcar a opção:
 
 - [x] `All Users (requires admin privileges)` 
 
