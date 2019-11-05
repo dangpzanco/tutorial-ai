@@ -61,3 +61,4 @@ Mudar de diretório para o local onde este documento se encontra e iniciar o `ju
 C:\> cd tutorial-ai
 C:\tutorial-ai\> jupyter notebook
 ```
+
