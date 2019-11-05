@@ -31,24 +31,29 @@ Versão do Python: 3.7
 
 Instalar o [Miniconda3](https://docs.conda.io/en/latest/miniconda.html), versão Python 3.7.
 
-Durante a instalação marcar as opções:
+Durante a instalação marcar a opção:
+
+- [x] `All Users (requires admin privileges)` 
+
+![miniconda3-install1](miniconda3-install1.png)
+
+Também marcar as opções:
 
 - [x] `Add Anaconda to the system PATH environment variable` 
-
 - [x] `Register Anaconda as the system Python 3.7`
 
-![miniconda3-install](miniconda3-install.png)
+![miniconda3-install2](miniconda3-install2.png)
 
-Instalar os pacotes necessários, via linha de comando (`cmd.exe`):
+Instalar os pacotes necessários, via linha de comando (`cmd.exe`) e com permissões de administrador:
 
 ```
-C:\> conda install jupyterlab matplotlib pandas scikit-learn seaborn tensorflow git
+conda install jupyterlab matplotlib pandas scikit-learn seaborn tensorflow git
 ```
 
 Clonar o [repositório](https://github.com/dangpzanco/tutorial-ai) que contém os scripts:
 
 ```
-C:\> git clone https://github.com/dangpzanco/tutorial-ai
+git clone https://github.com/dangpzanco/tutorial-ai
 ```
 
 Ou baixar e extrair os arquivos:
